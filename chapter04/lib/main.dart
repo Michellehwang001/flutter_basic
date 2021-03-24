@@ -1,7 +1,4 @@
 // 열심히 공부하자!!
-
-
-
 import 'package:flutter/material.dart';
 import 'package:flutter_basic/animation/animation_menu.dart';
 import 'package:flutter_basic/basic/basic_menu.dart';
