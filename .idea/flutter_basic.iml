@@ -3,16 +3,22 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/chapter04/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chapter04/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chapter04/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter06/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chapter06/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chapter06/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter07/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chapter07/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chapter07/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter08/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chapter08/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chapter08/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter09/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chapter09/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chapter09/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter10/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/chapter10/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/chapter10/build" />
     </content>
